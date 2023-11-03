@@ -8,9 +8,9 @@ Projektets formål er at udvikle en interaktiv læringsapp målrettet folkeskole
 
 ## Valg af Designmønstre
 
-I dette projekt vil vi anvende følgende designmønstre:
+I dette projekt vil jeg anvende følgende designmønstre:
 
-1. **Kommando-mønsteret:** Dette mønster adskiller en anmodning om at udføre en handling fra selve handlingen. Vi bruger det til at håndtere brugerinteraktioner, f.eks. når brugeren skal svare på matematiske spørgsmål. Hver handling, såsom at besvare et spørgsmål, implementeres som en kommandoklasse med en `execute`-metode.
+1. **Kommando-mønsteret:** Dette mønster adskiller en anmodning om at udføre en handling fra selve handlingen. Jeg bruger det til at håndtere brugerinteraktioner, f.eks. når brugeren skal svare på matematiske spørgsmål. Hver handling, såsom at besvare et spørgsmål, implementeres som en kommandoklasse med en `execute`-metode.
 
 2. **Fabriksmønsteret:** Dette mønster bruges til at oprette forskellige typer af spilobjekter, i vores tilfælde forskellige typer matematiske spørgsmål.
 
