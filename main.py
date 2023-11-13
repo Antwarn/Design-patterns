@@ -1,11 +1,8 @@
-# Importer tkinter-biblioteket som tk
 import tkinter as tk
-# Importer random-biblioteket for at generere tilfældige tal
 import random
 
 # Opret en klasse kaldet MathQuizApp
 class MathQuizApp:
-    # Konstruktørmetode for initialisering af appen
     def __init__(self, root):
         self.root = root
         self.root.title("Math Quiz")  # Indstil titlen på vinduet til "Math Quiz"
