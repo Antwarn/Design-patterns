@@ -34,7 +34,7 @@ class CheckAnswerCommand:
         self.app.answer_entry.delete(0, tk.END)
         self.app.generate_question()
 
-# Opret en klasse kaldet MathQuizApp
+# Opret en class kaldet MathQuizApp
 class MathQuizApp:
     def __init__(self, root):
         self.root = root
