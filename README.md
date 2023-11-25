@@ -55,7 +55,7 @@ Jeg har oprettet en interaktiv læringsapp, der indeholder matematiske spørgsm�
 ## Test og Tilpasning
 
 Når appen er udviklet, skal den testes for at sikre, at den fungerer som forventet. 
-Jeg har levet to test af programmet. Første test genererede den spørgsmålet `3 + 2` der gav jeg inputtet 5 som var det rigtige svar. I den anden test svarede jeg intentionelt forkert på spørgsmålet `10 * 5` den sagde som forventet at svaret var forkert. jeg har lavet et test skema som er vedlagt under dette afsnit.  
+Jeg har levet to test af programmet. Første test genererede den spørgsmålet `3 + 2` der gav jeg inputtet 5 som var det rigtige svar. I den anden test svarede jeg intentionelt forkert på spørgsmålet `10 * 5`, den sagde som forventet at svaret var forkert. jeg har lavet et test skema som er vedlagt under dette afsnit.  
 
 | Input | Forventet Output | Reelt output |
 | ----- | ---------------- | ------------ |
